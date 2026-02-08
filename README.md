@@ -4,6 +4,7 @@
 [![Apache License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/a2aproject/A2A)
 [![RepoMapr](https://img.shields.io/badge/RepoMapr-View_Interactive_Diagram-blue)](https://repomapr.com/a2aproject/A2A)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2FA2A.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2FA2A?ref=badge_shield)
 
 <!-- markdownlint-disable MD041 -->
 <div style="text-align: center;">
@@ -83,3 +84,7 @@ We welcome community contributions to enhance and evolve the A2A protocol!
 ## About
 
 The A2A Protocol is an open-source project by Google LLC, under the [Apache License 2.0](LICENSE), and is open to contributions from the community.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2FA2A.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2FA2A?ref=badge_large)
